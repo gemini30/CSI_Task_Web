@@ -22,7 +22,7 @@
     font-size: 13px;
 }
 
-/* Services section  */
+
 #EVents{
     flex-direction: column;
 }
@@ -37,7 +37,7 @@
 #contact-box form{
     width:80%;
 }
-/* Footer */
+
 
 /* Utility classes */
 .h-primary{
