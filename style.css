@@ -125,8 +125,8 @@ html{
 }
 #Events .box:hover {
     transform: translateY(-0.5%);
-    box-shadow: 0 4rem 8rem rgba(0, 0, 0, 0.5);
-    transform: scale(1.2);
+    box-shadow: 0 4rem 8rem rgba(240, 70, 149, 0.5);
+    transform: scale(1.06);
   }
 
 #Events .box img{ 
