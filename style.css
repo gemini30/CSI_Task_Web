@@ -112,7 +112,7 @@ html{
 #Events .box{ 
     border: 4px solid pink;
     padding: 34px;
-    margin: 4px 55px;
+    margin: auto;
     border-radius: 28px;
     background:rgb(70, 35, 35);
     margin-bottom: 20px;
