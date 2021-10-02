@@ -1,4 +1,4 @@
-/* Navigation */
+
 #navbar {
     flex-direction: column;
 }
@@ -8,7 +8,7 @@
     padding: 0px 7px;
     padding-bottom: 8px;
 }
-/* Home section */
+
 #home{
     height: 370px; 
     padding: 3px 28px;
